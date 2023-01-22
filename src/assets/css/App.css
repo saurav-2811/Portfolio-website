@@ -1,0 +1,27 @@
+.custom-btn{
+  color:purple;
+  border-color:purple;
+
+}
+.custom-btn:hover{
+  color:white;
+  background-color: purple;
+  border-color:purple;
+
+}
+.virtical-line{
+  height:50vh;
+  background-color:purple;
+  width:2px;
+}
+.custom-icon a{
+  color:purple;
+  opacity: .5;
+
+}
+.custom-icon a:hover{
+  opacity: 1;  
+}
+::-webkit-scrollbar {
+  display: none;
+}
